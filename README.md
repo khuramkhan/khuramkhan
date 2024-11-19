@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khuram Shahzad</h1>
 <h3 align="center">A passionate Full-Stack Engineer | Mobile App Developer </h3>
-<p align="center">A passionate Full-Stack Engineer | Mobile App Developer </p>
+<p align="center">💡 Crafting high-quality apps for startups and enterprises with over 6 years of experience.</p>
 
 <h3>📱 What I Do</h3>
 
