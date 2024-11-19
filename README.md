@@ -3,9 +3,13 @@
 
 <h3>📱 What I Do</h3>
 - Develop user-centric React Native apps with seamless performance.
+
 - Build feature-rich Flutter applications with sleek UI/UX designs.
+  
 - Design robust backends using Node.js and Nest.js.
-- Integrate APIs and manage databases for optimized app functiona</ul>
+  
+- Integrate APIs and manage databases for optimized app functiona
+  
 
 - 💬 Ask me about **React, React native, Android and IOS mobile ap developement**
 
