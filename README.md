@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @khuramkhan
-- 👀 Mobile app & React native ninja
+👋 Hi, I'm Khuram!
+🚀 Mobile App Developer | Full-Stack Engineer
+💡 Crafting high-quality apps for startups and enterprises with over 6 years of experience
