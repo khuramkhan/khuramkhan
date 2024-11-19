@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khuram Shahzad</h1>
 <h3 align="center">A passionate Mobile App Developer | Full-Stack Engineer</h3>
 
-<li>
-  <ul>Develop user-centric React Native apps with seamless performance.
-Build feature-rich Flutter applications with sleek UI/UX designs.
-Design robust backends using Node.js and Nest.js.
-Integrate APIs and manage databases for optimized app functiona</ul>
-</li>
+<h3>📱 What I Do</h3>
+- Develop user-centric React Native apps with seamless performance.
+- Build feature-rich Flutter applications with sleek UI/UX designs.
+- Design robust backends using Node.js and Nest.js.
+- Integrate APIs and manage databases for optimized app functiona</ul>
 
 - 💬 Ask me about **React, React native, Android and IOS mobile ap developement**
 
