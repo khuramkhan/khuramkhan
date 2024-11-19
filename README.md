@@ -20,6 +20,8 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/treadkhuram](https://linkedin.com/in/treadkhuram)
 
+- 📄 💬 Feel free to reach out for collaborations or queries. Let's build something amazing!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
