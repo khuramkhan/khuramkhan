@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khuram Shahzad</h1>
+<!-- TROFEOS GITHUB -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 <h3 align="center">A passionate Full-Stack Engineer | Mobile App Developer </h3>
 <p align="center">💡 Crafting high-quality apps for startups and enterprises with over 6 years of experience.</p>
 
