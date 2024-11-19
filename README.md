@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Mobile App Developer | Full-Stack Engineer</h3>
 
 <h3>📱 What I Do</h3>
+
 - Develop user-centric React Native apps with seamless performance.
 
 - Build feature-rich Flutter applications with sleek UI/UX designs.
@@ -10,6 +11,7 @@
   
 - Integrate APIs and manage databases for optimized app functiona
   
+<h3 align="left">About me</h3>
 
 - 💬 Ask me about **React, React native, Android and IOS mobile ap developement**
 
